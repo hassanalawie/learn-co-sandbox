@@ -1,0 +1,8 @@
+var a = 1
+if (a===1){
+console.log("a is equal to "+a )}
+else if (a===2){
+console.log("a is equal to" + a)}
+else {
+console.log("a is not equal to one or two")
+}
